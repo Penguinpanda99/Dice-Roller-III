@@ -27,10 +27,6 @@ A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a mo
 ## Running Locally
 
 1. Clone the repository:
-```bash
-git clone [your-repo-url]
-cd dnd-roller-web
-```
 
 2. Install dependencies:
 ```bash
@@ -39,7 +35,7 @@ pip install -r requirements.txt
 
 3. Run the app:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 4. Open your browser to `http://localhost:8501`
@@ -76,22 +72,3 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
-
-## Future Enhancements
-
-- [ ] Spell slot tracking
-- [ ] Hit point management
-- [ ] Initiative tracker
-- [ ] Multi-character party management
-
-## License
-
-[Choose a license - MIT is common for portfolio projects]
-
-## Contact
-
-[Your name]
-- Portfolio: [link]
-- LinkedIn: [link]
-
-- Email: [email]
