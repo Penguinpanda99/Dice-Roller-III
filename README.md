@@ -10,13 +10,12 @@ A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a mo
 - **Character Management**: Create, save, and load character sheets (JSON format)
 - **Complete Weapon Database**: All standard D&D 5e weapons included
 
-## Live Demo
+## Live version
 
-[Link to your deployed app - add after deployment]
+https://dice-roller-iiigit-px9frezj24yvlkw37n8ks3.streamlit.app/
 
 ## Screenshots
 
-[Add 2-3 screenshots here after deployment]
 
 ## Tech Stack
 
@@ -72,3 +71,4 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
+
