@@ -1,6 +1,6 @@
-# D&D Roller II - Web Edition
+# D&D Roller III
 
-A web-based Dungeons & Dragons dice rolling assistant built with Streamlit. This is a modernized version of my original Python/Tkinter desktop application, redesigned for browser-based use.
+A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a modernized version of my original Python/Tkinter desktop application, redesigned for browser-based use.
 
 ## Features
 
@@ -93,4 +93,5 @@ Key improvements in V2:
 [Your name]
 - Portfolio: [link]
 - LinkedIn: [link]
+
 - Email: [email]
