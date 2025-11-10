@@ -1,4 +1,4 @@
-# D&D Roller III
+# Dice Roller III
 
 A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a modernized version of my original Python/Tkinter desktop application, redesigned for browser-based use.
 
@@ -62,7 +62,7 @@ Characters are stored as JSON files with this structure:
 
 ## Project Evolution
 
-This is Version 2 of my D&D Roller project:
+This is Version 2 of my Dice Roller project:
 - **V1**: Desktop application using Python + Tkinter
 - **V2**: Web application using Python + Streamlit (this version)
 
@@ -71,4 +71,5 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
+
 
