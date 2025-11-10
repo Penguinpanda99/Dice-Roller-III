@@ -54,7 +54,7 @@ WEAPON_DATABASE = {
 'longbow'        : {'damage_dice': '1d8',  'attack_type': 'ranged', 'gov_proficiency': 'Martial'}
 }
 # Page configuration
-st.set_page_config(page_title="D&D Roller III", page_icon="🎲", layout="wide")
+st.set_page_config(page_title="Dice Roller III", page_icon="🎲", layout="wide")
 def st_centered():
     _, col, _ = st.columns([1, 2, 1])
     return col
@@ -346,7 +346,7 @@ def validate_and_create_character(data):
 # Main app
 init_session_state()
 
-st.title("D&D Roller III")
+st.title("Dice Roller III")
 
 # Character selection / loading
 if not st.session_state.character_loaded:
@@ -660,4 +660,5 @@ else:
         st.session_state.character_name = "Demo Character"
         st.session_state.character_level = "5"
         st.session_state.result_text = "Ready to Roll!"
+
         st.rerun()
