@@ -12,7 +12,7 @@ A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a mo
 
 ## Live version
 
-https://dice-roller-iiigit-px9frezj24yvlkw37n8ks3.streamlit.app/
+https://dice-roller-iii.streamlit.app/
 
 ## Screenshots
 
@@ -71,5 +71,6 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
+
 
 
