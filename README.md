@@ -17,12 +17,16 @@ A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a mo
 https://dice-roller-iii.streamlit.app/
 
 ## Screenshots
-<img width="1785" height="904" alt="image" src="https://github.com/user-attachments/assets/5a53d499-7ade-4170-a1fc-4d1bd7972005" />
-<img width="1065" height="932" alt="image" src="https://github.com/user-attachments/assets/9eeb324e-78b6-41bb-9d4e-83cf4e4a2139" />
-<img width="806" height="491" alt="image" src="https://github.com/user-attachments/assets/749184b2-0ebe-4fd3-9acb-28e2987ec300" />
-<img width="811" height="487" alt="image" src="https://github.com/user-attachments/assets/2d106ccb-a883-4729-b5de-47a6af3f4525" />
-<img width="806" height="456" alt="image" src="https://github.com/user-attachments/assets/9c45c428-715f-45ff-89ae-e1c36e262571" />
 
+<img width="1785" height="904" alt="image" src="https://github.com/user-attachments/assets/5a53d499-7ade-4170-a1fc-4d1bd7972005" />
+  
+<img width="1065" height="932" alt="image" src="https://github.com/user-attachments/assets/9eeb324e-78b6-41bb-9d4e-83cf4e4a2139" />
+  
+<img width="330" height="456" alt="image" src="https://github.com/user-attachments/assets/9c45c428-715f-45ff-89ae-e1c36e262571" />
+
+<img width="330" height="491" alt="image" src="https://github.com/user-attachments/assets/749184b2-0ebe-4fd3-9acb-28e2987ec300" />
+
+<img width="330" height="487" alt="image" src="https://github.com/user-attachments/assets/2d106ccb-a883-4729-b5de-47a6af3f4525" />
 
 ## Tech Stack
 
@@ -78,6 +82,7 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
+
 
 
 
