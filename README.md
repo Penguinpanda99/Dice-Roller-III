@@ -1,5 +1,7 @@
 # Dice Roller III
 
+<img width="1249" height="868" alt="image" src="https://github.com/user-attachments/assets/43f9fb22-2a5f-4e54-bca3-1b5a5d4cff74" />
+
 A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a modernized version of my original Python/Tkinter desktop application, redesigned for browser-based use.
 
 ## Features
@@ -15,7 +17,8 @@ A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a mo
 https://dice-roller-iii.streamlit.app/
 
 ## Screenshots
-<img width="1249" height="868" alt="image" src="https://github.com/user-attachments/assets/43f9fb22-2a5f-4e54-bca3-1b5a5d4cff74" />
+<img width="1785" height="904" alt="image" src="https://github.com/user-attachments/assets/5a53d499-7ade-4170-a1fc-4d1bd7972005" />
+<img width="1065" height="932" alt="image" src="https://github.com/user-attachments/assets/9eeb324e-78b6-41bb-9d4e-83cf4e4a2139" />
 
 
 ## Tech Stack
@@ -72,6 +75,7 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
+
 
 
 
