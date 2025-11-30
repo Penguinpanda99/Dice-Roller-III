@@ -1,5 +1,6 @@
 # Dice Roller III
-
+Ossian Antar
+___
 <img width="1249" height="868" alt="image" src="https://github.com/user-attachments/assets/43f9fb22-2a5f-4e54-bca3-1b5a5d4cff74" />
 
 A web-based dice rolling assistant for D&D 5e built with Streamlit. This is a modernized version of my original Python/Tkinter desktop application, redesigned for browser-based use.
@@ -85,6 +86,7 @@ Key improvements in V2:
 - Modern UI with custom styling
 - Upload/download character management
 - Responsive design
+
 
 
 
